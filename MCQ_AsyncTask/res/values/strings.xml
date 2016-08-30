@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QCM</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="q1">Un angle droit fait un angle de :</string>
+    <string name="q2">Un triangle isocèle a :</string>
+    <string name="q3">Un triangle équilatéral a :</string>
+
+</resources>
